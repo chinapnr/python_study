@@ -4,9 +4,10 @@
 
 #### Lesson 1
 1.	python 简介
-2.	基本变量概念
-3.	print() 和 input() 用法
-4.	python 开发环境介绍
+2.	准备工作
+3.	基本变量概念
+4.	print() 和 input() 用法
+5.	python 开发环境介绍
     * python idle 用法
     * anaconda 介绍
     * jupyter 和 notebook介绍
@@ -14,17 +15,17 @@
 
 #### Lesson 2 
 1.	循环语句 for 和 range() 用法
-2.	常用数据类型 
+    2.常用数据类型 
     * list 用法
     * dict 用法
     * tuple 用法
-3.	随机数介绍
+      3.随机数介绍
 
 #### Lesson 3
 1.	list 的切片用法
-2.	函数用法
-3.	日期库 datetime 用法介绍，datetime、time 等库的介绍，获得日期，字符串和日期转换，日期格式介绍，日期加减计算
-4.	程序思路训练
+    2.函数用法
+    3.日期库 datetime 用法介绍，datetime、time 等库的介绍，获得日期，字符串和日期转换，日期格式介绍，日期加减计算
+    4.程序思路训练
 
 #### Lesson 4
 1.	集合库 collections 简介
@@ -33,7 +34,7 @@
     * defaultdict: 带有默认值的字典
     * OrderedDict: 有序字典
     * Counter: 计数器
-2.	函数不同参数形式介绍和举例 
+      2.函数不同参数形式介绍和举例 
 
 #### Lesson 5
 1. 文件和目录操作之一：文件和目录操作
@@ -42,5 +43,5 @@
 
 #### Lesson 6
 1.	错误处理介绍
-2.	pep8 规定以及 python 编程基本规范
-3.	程序思路训练
+    2.pep8 规定以及 python 编程基本规范
+    3.程序思路训练
