@@ -1,6 +1,6 @@
 ## python 初级学习大纲
 
-最后更新日期：2016.11.28
+最后更新日期：2016.12.10
 
 #### Lesson 1
 * python 简介
@@ -24,16 +24,10 @@
 #### Lesson 3
 * list 的切片用法
 * 函数用法
-* 日期库 datetime 用法介绍，datetime、time 等库的介绍，获得日期，字符串和日期转换，日期格式介绍，日期加减计算
 * 程序思路训练
 
 #### Lesson 4
-* 集合库 collections 简介
-    * namedtuple: 生成可以使用名字来访问元素内容的tuple子类
-    * deque: 双端队列，可以快速的从另外一侧追加和推出对象
-    * defaultdict: 带有默认值的字典
-    * OrderedDict: 有序字典
-    * Counter: 计数器
+* 日期库 datetime 用法介绍，datetime、time 等库的介绍，获得日期，字符串和日期转换，日期格式介绍，日期加减计算
 * 函数不同参数形式介绍和举例 
 
 #### Lesson 5
@@ -42,6 +36,12 @@
 * 搜索硬盘上指定路径指定类型的文件
 
 #### Lesson 6
+* 集合库 collections 简介
+    * namedtuple: 生成可以使用名字来访问元素内容的tuple子类
+    * deque: 双端队列，可以快速的从另外一侧追加和推出对象
+    * defaultdict: 带有默认值的字典
+    * OrderedDict: 有序字典
+    * Counter: 计数器
 * 错误处理介绍
 * pep8 规定以及 python 编程基本规范
 * 程序思路训练
