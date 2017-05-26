@@ -1,17 +1,17 @@
 ## python 初级学习大纲
 
-最后更新日期：2016.12.10
+最后更新日期：2017.5.26
 
 #### Lesson 1
-* python 简介
+* Python 简介
 * 准备工作
 * 基本变量概念
 * print() 和 input() 用法
-* python 开发环境介绍
-    * python idle 用法
-    * anaconda 介绍
-    * jupyter 和 notebook介绍
-    * pycharm 用法介绍
+* Python 开发环境介绍
+    * Python IDLE 用法
+    * Anaconda 介绍
+    * Jupyter 和 notebook介绍
+    * Pycharm 用法介绍
 
 #### Lesson 2 
 * 循环语句 for 和 range() 用法
@@ -43,4 +43,5 @@
     * OrderedDict: 有序字典
     * Counter: 计数器
 * 错误处理介绍
-* pep8 规定以及 python 编程基本规范
+* PEP 8 规定以及 python 编程基本规范
+* 单元测试基础
