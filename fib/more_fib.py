@@ -18,9 +18,9 @@ def list_fib(n):
     list_f = []
     f = 1
     list_f.append(f)
-    list_f.append(f)  # because the fibonacci sequence has two 1's at first
+    list_f.append(f)
     for i in range(n-2):
-        f = list_f[-1] + list_f[-2]  # says that f = the sum of the last two f's in the series
+        f = list_f[-1] + list_f[-2]
         list_f.append(f)
     return f
 
