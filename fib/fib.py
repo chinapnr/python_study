@@ -20,6 +20,11 @@ def cache_fib(n, _cache={}):
 if __name__ == "__main__":
     x = 47
     start = time.time()
+    res = fib(x)
+    elapsed = time.time() - start
+    print("Python Computed fib(%s)=%s in %0.8f seconds" % (x, res, elapsed))
+
+    start = time.time()
     res = cache_fib(x)
     elapsed = time.time() - start
     print("Python Computed fib(%s)=%s in %0.8f seconds" % (x, res, elapsed))
