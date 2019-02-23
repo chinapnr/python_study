@@ -1,3 +1,5 @@
+# Data Classes 基本用法
+
 from dataclasses import dataclass
 
 
