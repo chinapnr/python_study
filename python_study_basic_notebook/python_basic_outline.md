@@ -1,29 +1,40 @@
 ## python 初级学习大纲
 
-最后更新日期：2017.5.26
+2017.5.26 edit by David Yi
+2020.4.15 edit by David Yi
 
-#### Lesson 1
+### Lesson 1
 * Python 简介
-* 准备工作
-* 基本变量概念
-* print() 和 input() 用法
-* Python 开发环境介绍
-    * Python IDLE 用法
-    * Anaconda 介绍
-    * Jupyter 和 notebook介绍
-    * Pycharm 用法介绍
+    * Python 是什么
+    * 创始人
+    * 版本
+    * Python 能做什么
+    * Python 的优点和缺点
+    * Python 的设计哲学
+    * 提高编程能力的体会
+* 怎么运行 Python
+    * 使用标准的 Python 和 IDLE
+    * anaconda 介绍
+    * Jupyter Notebook介绍
+    * Pycharm 介绍
+    * Visual Studio Code 介绍
 
-#### Lesson 2 
-* 循环语句 for 和 range() 用法
+### Lesson 2 
+* Python 入门 
+    * 基本变量概念
+    * print() 和 input() 用法
+    * for 循环语句和 range() 函数
+* 思考
+
+### Lesson 3
 * 常用数据类型 
+    * 字符串
     * list 用法
     * dict 用法
     * tuple 用法
 * 随机数介绍
-
-#### Lesson 3
-* list 的切片用法
-* 函数用法
+* 思考
+    * 中文分词介绍
 
 #### Lesson 4
 * 日期库 datetime 用法介绍，datetime、time 等库的介绍，获得日期，字符串和日期转换，日期格式介绍，日期加减计算
