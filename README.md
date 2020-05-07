@@ -7,6 +7,43 @@
 
 今后，我们也准备用视频等方式来进行推广，敬请期待。
 
-从 2016 年开始，有不少同事和朋友参与了这套材料的编辑，稍后详细列出，一并感谢。
+从 2016年底开始，有不少同事和朋友参与了这套材料的编辑，特别感谢张怿檬。
+
+---
+
+Python Basic 入门教程
+
+Python Basic Lesson 01 - 简介.ipynb
+
+Python Basic Lesson 02 - 变量, print, input.ipynb
+
+Python Basic Lesson 03 - 循环 for, 字符串.ipynb
+
+Python Basic Lesson 04 - 列表 list.ipynb
+
+Python Basic Lesson 05 - 字典 dict, 元组 tuple.ipynb
+
+Python Basic Lesson 06 - 随机数.ipynb
+
+Python Basic Lesson 07 - 文件目录操作.ipynb
+
+Python Basic Lesson 08 - 函数简介.ipynb
+
+Python Basic Lesson 09 - 日期函数.ipynb
+
+Python Basic Lesson 10 - 函数参数和匿名函数.ipynb
+
+Python Basic Lesson 11 - 集合库 collections.ipynb
+
+Python Basic Lesson 12 - 列表生成式.ipynb
+
+Python Basic Lesson 13 - 完整的 for 语句结构和 pprint.ipynb
+
+Python Basic Lesson 14 - 访问网络 requests.ipynb
+
+Python Basic Lesson 15 - 图片处理 Pillow.ipynb
+
+Python Basic Lesson 16 - 函数式编程.ipynb
+
 
 遵循 GNU GENERAL PUBLIC LICENSE Version 3 协议。未经授权，不得用于商业用途。
