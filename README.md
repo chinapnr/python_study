@@ -45,5 +45,8 @@ Python Basic Lesson 15 - 图片处理 Pillow.ipynb
 
 Python Basic Lesson 16 - 函数式编程.ipynb
 
+Python Basic Lesson 17 - 异常处理.ipynb
+
+Python Basic Lesson 18 - 窗口界面编程tk.ipynb
 
 遵循 GNU GENERAL PUBLIC LICENSE Version 3 协议。未经授权，不得用于商业用途。
